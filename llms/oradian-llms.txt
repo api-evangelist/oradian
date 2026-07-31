@@ -1,0 +1,49 @@
+# Oradian
+
+> Oradian is an AI-native core banking platform that enables financial institutions in Asia, Africa, and Europe to launch, operate, and scale modern banking services from the cloud.
+
+Oradian helps banks, lenders, microfinance institutions, and fintechs replace legacy core systems with a cloud-native, API-first platform built around an open data model, extensible architecture, and AI-native extensibility. Customers go from requirement to live extension in days, not months.
+
+## Pages
+
+- [/](/): Oradian home - AI-native core banking for modern financial institutions.
+- [/core-banking-solutions](/core-banking-solutions): Cloud-native core banking system overview.
+- [/core-banking-system](/core-banking-system): Redirect to core banking solutions.
+- [/cloud-hosting](/cloud-hosting): Infrastructure that scales with your growth.
+- [/apis-integrations](/apis-integrations): Open core with APIs and integrations.
+- [/security](/security): Bank-grade security and compliance.
+- [/modules](/modules): Nine modules on one unified core.
+- [/ai](/ai): AI-native extensibility, data model, and APIs.
+- [/integrations](/integrations): Integration capabilities and partners.
+- [/ledgers](/ledgers): General ledger and sub-ledger engine.
+- [/transactions](/transactions): Real-time transaction processing.
+- [/deposits](/deposits): Deposit account management.
+- [/cards](/cards): Card issuing and management.
+- [/loans](/loans): Loan origination and servicing.
+- [/applications](/applications): Application processing.
+
+## Solutions
+
+- [/solutions/banks](/solutions/banks): Core banking for banks - run a real bank, move like a startup.
+- [/solutions/digital-lenders](/solutions/digital-lenders): Ship loans at the speed of an app.
+- [/solutions/microfinance](/solutions/microfinance): Serve more customers at lower cost.
+- [/solutions/fintechs](/solutions/fintechs): The core under the next great fintech.
+- [/solutions/p2p-lenders](/solutions/p2p-lenders): Match capital to borrowers at platform scale.
+- [/solutions/rural-banks](/solutions/rural-banks): Community banking on a modern core.
+
+## Company
+
+- [/about](/about): Who we are and why we exist.
+- [/partners](/partners): Ecosystem across cloud, payments, and risk.
+- [/careers](/careers): Join the Oradian team.
+- [/contact](/contact): Get in touch with our experts.
+
+## Content
+
+- [/case-studies](/case-studies): Customer success stories.
+- [/insights](/insights): Blog, articles, and industry insights.
+
+## Legal
+
+- [/privacy-policy](/privacy-policy): Privacy policy.
+- [/cookie-policy](/cookie-policy): Cookie policy.

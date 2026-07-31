@@ -1,7 +1,27 @@
 aid: oradian
 name: Oradian
-description: Oradian is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Oradian is an AI-native, cloud-based core banking platform that helps banks,
+  lenders, microfinance institutions, and fintechs in Asia, Africa, and Europe
+  replace legacy core systems and launch, operate, and scale modern banking
+  services from the cloud. Its product, Instafin, is built API-first around an
+  open data model, an extensible architecture, and a native Model Context
+  Protocol surface, exposing capabilities such as ledgers, transactions,
+  deposits, cards, loans, and applications through stable, versioned APIs,
+  webhooks, and event streams. Oradian is independently audited to SOC 2 and
+  ISO 27001 and aligns to CBN, BSP, and OJK regulatory requirements.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://oradian.com/oradian-og.jpg
 url: https://raw.githubusercontent.com/api-evangelist/oradian/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Banking
+- Core Banking
+- Fintech
+- Financial Services
+- Lending
+- Microfinance
+- APIs
+- Emerging Markets
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +50,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://oradian.com
+  url: https://oradian.com
+- type: Blog
+  url: https://oradian.com/insights
+- type: Support
+  url: https://oradian.com/contact
+- type: PrivacyPolicy
+  url: https://oradian.com/privacy-policy
+- type: GitHubOrganization
+  url: https://github.com/oradian
+- type: LLMsTxt
+  url: llms/oradian-llms.txt
+- type: DomainSecurity
+  url: security/oradian-domain-security.yml
+- type: TrustCenter
+  url: security/oradian-trust-center.yml
+- type: Conformance
+  url: conformance/oradian-conformance.yml
+- type: Compliance
+  url: https://oradian.com/security
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
