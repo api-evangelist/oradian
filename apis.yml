@@ -48,7 +48,7 @@ tags:
 - Banking
 - Core Banking
 - Fintech
-- Financial-Services
+- Financial Services
 - Lending
 - Microfinance
 - Emerging Markets
@@ -62,6 +62,7 @@ tags_raw:
 - Microfinance
 - APIs
 - Emerging Markets
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
